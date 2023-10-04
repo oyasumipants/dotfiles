@@ -1,3 +1,10 @@
+### Homebrew ###
+export PATH="/opt/homebrew/bin:$PATH"
+
+### Go ###
+export GOPATH="$HOME/go"
+export PATH="$GOPATH/bin:$PATH"
+
 ### Oh My ZSH! ###
 
 # If you come from bash you might have to change your $PATH.
